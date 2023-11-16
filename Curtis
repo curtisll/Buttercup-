@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buttercup Farm</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1, h2 {
+            color: #8B4513;
+        }
+
+        h2 {
+            border-bottom: 2px solid #8B4513;
+            padding-bottom: 5px;
+            margin-top: 20px;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .animal-list {
+            list-style-type: none;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to Buttercup Farm!</h1>
+    <p>Visit our farmstand for fresh eggs and seasonal produce. Enjoy the company of our lovely animals.</p>
+
+    <h2>Farm Location</h2>
+    <p>7762 Browns Summit, NC 27214</p>
+
+    <h2>Animals on the Farm</h2>
+    <ul class="animal-list">
+        <li>Chickens</li>
+        <li>Horses: Trish and Nessie</li>
+        <li>Goats: Pamela, Paxton, Pete, Penny, Pearl</li>
+        <li>Duck</li>
+        <li>Goose: Gerald</li>
+        <li>Turkey: Charlie</li>
+        <li>Dog: Italian Greyhound - Kiera</li>
+        <li>Dog: Corgi - Emmett</li>
+        <li>Dog: Anatolian Shepherd - Arthur</li>
+    </ul>
+
+    <!-- Add more sections or features as needed -->
+
+</body>
+</html>
